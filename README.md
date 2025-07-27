@@ -28,5 +28,3 @@ Ini adalah backend dari **Aplikasi Manajemen Invoice** berbasis web yang dibangu
 - 🔧 **Struktur Modular**: MVC (Model–View–Controller)
 
 ---
-
-## 📁 Struktur Folder
