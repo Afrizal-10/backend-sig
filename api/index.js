@@ -1,10 +1,10 @@
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
-const connectDB = require("./config/db");
+const connectDB = require("../config/db");
 
-const invoiceRoutes = require("./routes/invoiceRoutes");
-const authRoutes = require("./routes/authRoutes");
+const invoiceRoutes = require("../routes/invoiceRoutes");
+const authRoutes = require("../routes/authRoutes");
 
 dotenv.config();
 connectDB();
